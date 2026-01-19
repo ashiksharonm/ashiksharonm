@@ -1,105 +1,161 @@
-# 📌 Ashik Sharon M
-🚀 AI/ML Student | 💻 Data Science Enthusiast | 🌍 Passionate about AI-driven Solutions
+<!-- Banner (optional) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Ashik%20Sharon%20M&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashiksharonm&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiksharonm&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashiksharonm&theme=black-ice)
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=GenAI+%2F+ML+Engineer+%7C+Agentic+AI+%7C+GraphRAG+%7C+MLOps;Enterprise+AI+Automation+%7C+Data+Engineering+%7C+Applied+Analytics;I+build+production-grade+AI+systems+end-to-end" alt="Typing SVG" />
+</h2>
 
----
-
-## 📚 About Me
-🎓 **M.Tech in Artificial Intelligence and Machine Learning** – VIT Vellore (2024 - Present)  
-🎓 **B.E in Computer Science & Engineering** – Loyola-ICAM College of Engineering & Technology (2020 - 2024)  
-
-💡 Passionate about **Machine Learning, Deep Learning, and AI-driven solutions**  
-🔬 Currently working on **ESC-Net: SAR Image Colorization using CNN & Transformers**  
-🏆 **Hackathon Winner & AI Researcher**  
-
----
-
-## 🛠 Skills & Tools
-
-### Languages & Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### Machine Learning & AI
-🔹 **ML/DL Frameworks**: TensorFlow, PyTorch, Scikit-Learn  
-🔹 **Deep Learning Models**: CNN, VGG16, Transformers, BERT, GPT-3.5  
-🔹 **GenAI & LLMs**: FLAN, Transformers, BERT, GPT  
-
-### Data Science & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-🔹 **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib  
-🔹 **Big Data Tools**: Apache Spark, Hadoop  
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-🔹 **SQL**: MySQL, Oracle, PostgreSQL  
-🔹 **NoSQL**: MongoDB, Firebase  
-
-### Cloud & Web Development
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-🔹 **Frontend**: React.js, HTML5, CSS  
-🔹 **Backend**: Node.js, Express.js  
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ashiksharonm&style=flat-square&color=38BDF8">
+    <img src="https://komarev.com/ghpvc/?username=ashiksharonm&style=flat-square&color=38BDF8" alt="profile views" />
+  </a>
+  <a href="https://github.com/ashiksharonm?tab=followers">
+    <img src="https://img.shields.io/github/followers/ashiksharonm?label=Followers&style=flat-square&color=38BDF8" />
+  </a>
+  <a href="https://github.com/ashiksharonm">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-Feb%202026-success?style=flat-square&color=22c55e" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 👋 About Me
+**GenAI / ML Engineer (M.Tech AIML @ VIT)** | Enterprise AI Automation | GraphRAG | MLOps | Data Engineering  
+📍 Chennai, India • 🎓 M.Tech (AI & ML) • 💼 Ex-Intel Graduate Technical Intern (2025–2026)
 
-### 🔹 ESC-Net – SAR Image Colorization (Ongoing Masters Project)
-📌 Implementing **CNN + Transformer** for **SAR-to-Optical Image Translation**  
-📌 Using **CycleGAN, Edge-Aware Loss, and Histogram Equalization** for better results  
-
-### 🔹 VoteChainAI – Blockchain Voting with AI
-📌 Built a **secure blockchain-based voting system**  
-📌 Integrated **AI-based facial recognition** for authentication  
-
-### 🔹 AgroVoiceAI – AI-Powered Voice Assistant for Farmers
-📌 Developed a **multilingual chatbot** for smart farming solutions  
-📌 Integrated **weather forecasting & crop recommendation systems**  
-
-### 🔹 Alumni Voting System – MERN Stack-Based Voting Platform
-📌 Created a **secure election system** using **MongoDB, Express.js, React, Node.js**  
-📌 Implemented **real-time vote counting**  
-
-### 🔹 SentiVision – Sentiment Analysis with OCR
-📌 Built a **customer log sentiment analysis system**  
-📌 Used **Sentence Transformers, OCR (PyTesseract), and Keycloak authentication**  
+I build **production-grade AI systems** that solve real business problems end-to-end — from  
+✅ **data pipelines + evaluation** → ✅ **model deployment + monitoring**.
 
 ---
 
-## 🏆 Achievements & Leadership
-
-🏅 **Winner – Idea Presentation, Praestantia 2023 (Sairam Institute of Technology)**  
-📌 Proposed **StockistAI**, a hybrid **stock trend forecasting model using LSTM & SVM**  
-
-📌 **Organizer – Hackathon "Hackwarts", Xplore 2023 Symposium**  
-🎯 Led and managed a **college-level hackathon** with 100+ participants  
-
-🏆 **Winner – Innovathon 2020 (LICET Science & Humanities Dept.)**  
-📌 Developed **DigiPass**, a **Flutter-based digital bus pass with QR authentication**  
-
-🏆 **Ashok Leyland Hackathon Finalist – IntelliRoute**  
-📌 Pitched an **AI-powered energy management system for EVs**, optimizing charging times  
+## 🚀 What I Do
+- ✅ **Agentic AI systems** for workflow automation (LLM multi-agent orchestration)
+- ✅ **GraphRAG / Enterprise Search** (Graph + Vector Hybrid Retrieval, Query Routing)
+- ✅ **Data Engineering pipelines** (ETL, validation, PostgreSQL, APIs)
+- ✅ **Cloud-native deployments** with **Docker + Kubernetes**
+- ✅ Strong in **Python, SQL**, and clean backend APIs (**FastAPI / Flask**)
 
 ---
 
-## 📜 Certifications
-✅ **Google Cloud Skills Boost – Data Analyst Path (Ongoing)**  
+## 🏆 Career Highlights
+- Built an **Agentic AI ticket automation system** integrated with **ServiceNow**, deployed on **Kubernetes**, improving support workflow efficiency.
+- Leading development of an enterprise **GraphRAG platform** using hybrid graph architecture, ETL pipelines, and vector search for natural language analytics.
+- Filed a **patent** on **multi-agent GenAI systems** with provenance logging and secure audit trails.
 
 ---
 
-## 🌐 Connect With Me
-📧 **Email**: sharonashik20@gmail.com  
-📌 **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/ashiksharonm)  
-📌 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ashik-sharon-6757011b3/)  
-📌 **Portfolio**: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://your-portfolio.com)  
+## 🧾 Patent
+✅ **Patent Application (Filed, 2025)**  
+**Adaptive Multi-Agent Generative AI System for Automated Legal Contract Drafting and Advisory with Provenance Logging and Secure Hardware Integration**  
+- Multi-agent GenAI system with Meta-Controller  
+- Clause-level provenance logging using cryptographic signing + audit trails  
+- Validated on NDA drafting: 42% time reduction, 98% compliance accuracy
 
 ---
 
-### 🚀 **Let’s Build AI for the Future!** 😃
+## 🧠 Skills Snapshot
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,postgres,mongodb,fastapi,flask,docker,kubernetes,nginx,git,githubactions,linux,gcp,azure" />
+</p>
+
+**Languages:** Python, Java, SQL, JavaScript  
+**GenAI/LLMs:** Azure OpenAI, OpenAI SDK, Prompt Engineering, RAG, GraphRAG, Agents, Embeddings, tiktoken  
+**ML/DL:** scikit-learn, CNNs, Transformers, NLP, SAR image translation  
+**Backend:** FastAPI, Flask, REST APIs, OAuth2, Uvicorn  
+**Data:** ETL, pandas, NumPy, SQLAlchemy, PostgreSQL, Neo4j  
+**DevOps/Cloud:** Docker, Kubernetes (CaaS/Rancher), GitHub Actions, Nginx Ingress, Azure, GCP  
+**BI/Viz:** Excel, Tableau, matplotlib, seaborn
+
+---
+
+## 📌 Featured Projects
+### 🔹 PricePulse: Inflation Forecasting & Pricing Strategy Engine (Real Govt Data)
+- Automated ETL pipeline pulling **US BLS CPI** time-series data  
+- Forecasted category-specific inflation using **SARIMAX**  
+- Generated **ROI pricing model + executive report**  
+- CI/CD scheduling monthly retraining/report generation  
+**Tech:** Python, pandas, statsmodels, ReportLab/OpenPyXL, GitHub Actions  
+➡️ Repo: https://github.com/ashiksharonm/PricePulse--Inflation-driven-Pricing-Strategy
+
+---
+
+### 🔹 Agentic AI Ticket Automation (Enterprise POC @ Intel)
+- Multi-agent LLM pipeline for classification, priority scoring and routing  
+- Integrated with ServiceNow REST APIs  
+- Deployed using Docker + Kubernetes with OAuth2 & Nginx Ingress  
+**Tech:** FastAPI, Azure OpenAI, Kubernetes, Docker, PostgreSQL  
+
+---
+
+### 🔹 GraphRAG for Enterprise Technical Knowledge (Graph + Vector Hybrid Project @ Intel)
+- Dual-graph architecture: dynamic graph construction + schema precision graph  
+- Automated ETL pipelines syncing multiple PostgreSQL sources  
+- Vector similarity search + multi-hop traversal for relationship discovery  
+**Tech:** Python, Flask, Neo4j, PostgreSQL, Azure OpenAI  
+
+---
+
+### 🔹 ESC-Net: SAR Image Colorization (Masters Project)
+- CNN + Transformer model for SAR-to-optical translation  
+- CycleGAN enhancement + edge-aware loss  
+- Evaluated using PSNR/SSIM  
+➡️ Repo: *(optional link)*
+
+---
+
+## 🧩 Open Source Contributions
+I enjoy contributing to open source tooling and improving developer experience.
+
+✅ **Contribution Areas**
+- AI/ML pipelines & evaluation tooling  
+- Data automation scripts  
+- Backend/API utilities  
+
+> 📌 *(Tip: If you share 1–2 PR links, I can format this section beautifully with badges.)*
+
+---
+
+## 🔥 LeetCode Progress
+✅ **Solved:** 36 problems (11 Easy, 17 Medium, 8 Hard)  
+**Topics:** DP, Trees, Linked List, Stack, Sliding Window, Backtracking
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ashiksharonm?theme=dark&font=Fira%20Code&ext=contest" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Auto Updated)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ashiksharonm&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiksharonm&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiksharonm&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏅 Achievements & Leadership
+- 🥇 Winner – Praestantia 2023: StockistAI (LSTM + SVM forecasting)
+- 🥇 Winner – Innovathon 2020: DigiPass (Flutter + QR authentication)
+- 🎯 Organizer – Hackwarts Hackathon (Xplore 2023)
+- 🏆 Ashok Leyland Hackathon Finalist – IntelliRoute (EV energy management AI)
+
+---
+
+## 📫 Connect With Me
+📧 Email: **sharonashik20@gmail.com**  
+🔗 LinkedIn: https://linkedin.com/in/ashik-sharon-6757011b3  
+🐙 GitHub: https://github.com/ashiksharonm  
+
+---
+
+⭐ *Open to full-time roles in Data Engineering / AI Engineering / GenAI / MLOps (Feb 2026 onwards).*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
+</p>
