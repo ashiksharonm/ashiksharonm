@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/github/followers/ashiksharonm?label=Followers&style=flat-square&color=38BDF8" />
   </a>
   <a href="https://github.com/ashiksharonm">
-    <img src="https://img.shields.io/badge/Open%20to%20Work-March%202026-success?style=flat-square&color=22c55e" />
+    <img src="https://img.shields.io/badge/Open%20to%20Work-Feb%202026-success?style=flat-square&color=22c55e" />
   </a>
 </p>
 
@@ -101,19 +101,6 @@ I build **production-grade AI systems** that solve real business problems end-to
 - CNN + Transformer model for SAR-to-optical translation  
 - CycleGAN enhancement + edge-aware loss  
 - Evaluated using PSNR/SSIM  
-➡️ Repo: *(optional link)*
-
----
-
-## 🧩 Open Source Contributions
-I enjoy contributing to open source tooling and improving developer experience.
-
-✅ **Contribution Areas**
-- AI/ML pipelines & evaluation tooling  
-- Data automation scripts  
-- Backend/API utilities  
-
-> 📌 *(Tip: If you share 1–2 PR links, I can format this section beautifully with badges.)*
 
 ---
 
@@ -122,7 +109,7 @@ I enjoy contributing to open source tooling and improving developer experience.
 **Topics:** DP, Trees, Linked List, Stack, Sliding Window, Backtracking
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/212s7oaWZG?theme=dark&font=Fira%20Code&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/ashiksharonm?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
 ---
