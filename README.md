@@ -122,7 +122,7 @@ I enjoy contributing to open source tooling and improving developer experience.
 **Topics:** DP, Trees, Linked List, Stack, Sliding Window, Backtracking
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ashiksharonm?theme=dark&font=Fira%20Code&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/212s7oaWZG?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
 ---
