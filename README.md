@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/github/followers/ashiksharonm?label=Followers&style=flat-square&color=38BDF8" />
   </a>
   <a href="https://github.com/ashiksharonm">
-    <img src="https://img.shields.io/badge/Open%20to%20Work-Feb%202026-success?style=flat-square&color=22c55e" />
+    <img src="https://img.shields.io/badge/Open%20to%20Work-March%202026-success?style=flat-square&color=22c55e" />
   </a>
 </p>
 
