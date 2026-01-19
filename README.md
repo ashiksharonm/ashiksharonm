@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=GenAI+%2F+ML+Engineer+%7C+Agentic+AI+%7C+GraphRAG+%7C+MLOps;Enterprise+AI+Automation+%7C+Data+Engineering+%7C+Applied+Analytics;I+build+production-grade+AI+systems+end-to-end" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=GenAI+%2F+ML+Engineer+%7C+Agentic+AI+%7C+GraphRAG+%7C+MLOps;Enterprise+AI+Automation+%7C+Data+Engineering;Applied+Analytics+%7C+Production+AI+Systems;I+build+production-grade+AI+systems+end-to-end" alt="Typing SVG" />
 </h2>
 
 <p align="center">
