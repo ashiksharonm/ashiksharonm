@@ -117,7 +117,6 @@ I build **production-grade AI systems** that solve real business problems end-to
 ## 📊 GitHub Stats (Auto Updated)
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ashiksharonm&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiksharonm&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
