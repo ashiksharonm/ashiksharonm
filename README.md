@@ -114,8 +114,8 @@ I build **production-grade AI systems** that solve real business problems end-to
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ashiksharonm?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
--->
 ---
+-->
 
 ## 📊 GitHub Stats (Auto Updated)
 <p align="center">
