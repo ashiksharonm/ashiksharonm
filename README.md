@@ -98,12 +98,14 @@ I build **production-grade AI systems** that solve real business problems end-to
 ---
 
 ### 🔹 ESC-Net: SAR Image Colorization (Masters Project)
-- CNN + Transformer model for SAR-to-optical translation  
-- CycleGAN enhancement + edge-aware loss  
+- ResNet34 + CBAM neural network for SAR-to-optical satellite image translation
+- trained on 64K paired patches achieving SSIM 0.92 using ColorSAR evaluation protocol
+- Reduced model complexity by 40% versus ensemble baseline
+- deployed on NVIDIA A100 GPU with optimized data pipeline processing 900 batches per epoch at 20+ iterations per second 
 - Evaluated using PSNR/SSIM  
-
+**Tech:** Python, PyTorch, Deep Learning, Computer Vision
 ---
-
+<!--
 ## 🔥 LeetCode Progress
 ✅ **Solved:** 36 problems (11 Easy, 17 Medium, 8 Hard)  
 **Topics:** DP, Trees, Linked List, Stack, Sliding Window, Backtracking
@@ -111,7 +113,7 @@ I build **production-grade AI systems** that solve real business problems end-to
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ashiksharonm?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
-
+-->
 ---
 
 ## 📊 GitHub Stats (Auto Updated)
@@ -140,7 +142,7 @@ I build **production-grade AI systems** that solve real business problems end-to
 
 ---
 
-⭐ *Open to full-time roles in Data Engineering / AI Engineering / GenAI / MLOps (Feb 2026 onwards).*
+⭐ *Open to full-time roles in Data Engineering / AI Engineering / GenAI / MLOps / DevOps / Cloud Engineer (Feb 2026 onwards).*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
