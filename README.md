@@ -28,6 +28,8 @@
 I build **production-grade AI systems** that solve real business problems end-to-end — from  
 ✅ **data pipelines + evaluation** → ✅ **model deployment + monitoring**.
 
+I also enjoy evaluation-heavy work — carefully comparing AI outputs against references,
+analyzing failure modes, and improving prompt and system reliability.
 ---
 
 ## 🚀 What I Do
