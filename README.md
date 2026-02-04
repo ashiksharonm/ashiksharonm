@@ -122,11 +122,8 @@ analyzing failure modes, and improving prompt and system reliability.
 
 ## 🔥 GitHub Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiksharonm&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiksharonm&theme=tokyonight&hide_border=true" />
 </p>
-
-
-
 
 ---
 
