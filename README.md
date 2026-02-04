@@ -132,10 +132,19 @@ analyzing failure modes, and improving prompt and system reliability.
 ---
 
 ## 🏅 Achievements & Leadership
-- 🥇 Winner – Praestantia 2023: StockistAI (LSTM + SVM forecasting)
-- 🥇 Winner – Innovathon 2020: DigiPass (Flutter + QR authentication)
-- 🎯 Organizer – Hackwarts Hackathon (Xplore 2023)
-- 🏆 Ashok Leyland Hackathon Finalist – IntelliRoute (EV energy management AI)
+- 🏆 **Niral Thiruvizha 2024 (Govt. of Tamil Nadu)**: AgroVoiceAI ranked among **Top 100 teams statewide** (from 500+ shortlisted) — AI-driven voice-based agricultural assistance  
+  🔗 https://github.com/ashiksharonm/AgroVoiceAI
+
+- 🥇 **Winner – Praestantia 2023**: StockistAI (Hybrid LSTM + SVM stock trend forecasting)
+
+- 🥇 **Winner – Technoteen 2021 (LICET)**: DigiPass (Flutter + QR-based digital bus pass system)
+
+- 🏆 **Ashok Leyland Hackathon Finalist**: IntelliRoute (AI-powered EV energy management system)
+
+- 🎯 **Organizer – Hackwarts Hackathon** (Xplore 2023, LICET): Led planning, logistics, and execution
+
+- 🏐 **Sports Captain (CSE Dept., LICET)** & **CM Trophy Winners (VIT 2024, District Level)**: Led collegiate volleyball team and competed at inter-university level
+
 
 ---
 
