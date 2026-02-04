@@ -120,14 +120,11 @@ analyzing failure modes, and improving prompt and system reliability.
 ---
 -->
 
-## 📊 GitHub Stats (Auto Updated)
+## 🔥 GitHub Contribution Streak
 <p align="center">
-  <img src="https://gh-stats.vercel.app/api?username=ashiksharonm&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiksharonm&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://gh-stats.vercel.app/api/top-langs/?username=ashiksharonm&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 
 ---
