@@ -126,7 +126,7 @@ A production-grade RAG file system for enterprise compliance, policy reasoning, 
 
 ---
 
-⭐ *Open to full-time roles in Data Engineering / AI Engineering / GenAI / MLOps / DevOps / Cloud Engineer (Feb 2026 onwards).*
+⭐ *Open to full-time roles in Data Engineering / AI Engineering / GenAI / MLOps / DevOps / Cloud Engineer.*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
