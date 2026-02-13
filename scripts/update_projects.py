@@ -38,6 +38,7 @@ for r in selected:
     blocks.append(
         f"""### 🔹 {r['name']}
 {r['description'] or "Production-grade AI project"}
+
 ➡️ Repo: {r['html_url']}
 """
     )
