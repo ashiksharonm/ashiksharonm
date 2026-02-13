@@ -2,22 +2,23 @@ import requests
 from datetime import datetime, timedelta
 
 USERNAME = "ashiksharonm"
-DAYS_LOOKBACK = 90
+DAYS_LOOKBACK = 365
 MAX_PROJECTS = 4
 
 since_date = datetime.utcnow() - timedelta(days=DAYS_LOOKBACK)
 
 headers = {
-    "Accept": "application/vnd.github+json"
+    "Accept": "application/vnd.github+json",
+    "X-GitHub-Api-Version": "2022-11-28"
 }
 
-url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100"
+url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100&type=owner"
 repos = requests.get(url, headers=headers).json()
 
 selected = []
 
 for repo in repos:
-    if repo["fork"]:
+    if repo.get("fork"):
         continue
 
     topics = repo.get("topics", [])
@@ -47,8 +48,15 @@ with open("README.md", "r", encoding="utf-8") as f:
 start = "<!-- PROJECTS:START -->"
 end = "<!-- PROJECTS:END -->"
 
+if start not in readme or end not in readme:
+    raise ValueError("Markers not found in README")
+
 new_section = start + "\n\n" + "\n\n".join(blocks) + "\n\n" + end
-updated = readme.split(start)[0] + new_section + readme.split(end)[1]
+
+updated = readme.replace(
+    readme[readme.index(start): readme.index(end) + len(end)],
+    new_section
+)
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(updated)
