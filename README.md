@@ -74,41 +74,9 @@ analyzing failure modes, and improving prompt and system reliability.
 ---
 
 ## 📌 Featured Projects
-### 🔹 PricePulse: Inflation Forecasting & Pricing Strategy Engine (Real Govt Data)
-- Automated ETL pipeline pulling **US BLS CPI** time-series data  
-- Forecasted category-specific inflation using **SARIMAX**  
-- Generated **ROI pricing model + executive report**  
-- CI/CD scheduling monthly retraining/report generation  
-**Tech:** Python, pandas, statsmodels, ReportLab/OpenPyXL, GitHub Actions  
-➡️ Repo: https://github.com/ashiksharonm/PricePulse--Inflation-driven-Pricing-Strategy
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
 
----
-
-### 🔹 Agentic AI Ticket Automation (Enterprise POC @ Intel)
-- Multi-agent LLM pipeline for classification, priority scoring and routing  
-- Integrated with ServiceNow REST APIs  
-- Deployed using Docker + Kubernetes with OAuth2 & Nginx Ingress  
-**Tech:** FastAPI, Azure OpenAI, Kubernetes, Docker, PostgreSQL  
-
----
-
-### 🔹 GraphRAG for Enterprise Technical Knowledge (Graph + Vector Hybrid Project @ Intel)
-- Dual-graph architecture: dynamic graph construction + schema precision graph  
-- Automated ETL pipelines syncing multiple PostgreSQL sources  
-- Vector similarity search + multi-hop traversal for relationship discovery  
-**Tech:** Python, Flask, Neo4j, PostgreSQL, Azure OpenAI  
-
----
-
-### 🔹 ESC-Net: SAR Image Colorization (Masters Project)
-- ResNet34 + CBAM neural network for SAR-to-optical satellite image translation
-- trained on 64K paired patches achieving SSIM 0.92 using ColorSAR evaluation protocol
-- Reduced model complexity by 40% versus ensemble baseline
-- deployed on NVIDIA A100 GPU with optimized data pipeline processing 900 batches per epoch at 20+ iterations per second 
-- Evaluated using PSNR/SSIM  
-**Tech:** Python, PyTorch, Deep Learning, Computer Vision
-➡️ Repo: https://github.com/ashiksharonm/esc-net-sar-image-colorizer
----
 <!--
 ## 🔥 LeetCode Progress
 ✅ **Solved:** 36 problems (11 Easy, 17 Medium, 8 Hard)  
