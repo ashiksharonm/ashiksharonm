@@ -82,6 +82,24 @@ A production-grade RAG file system for enterprise compliance, policy reasoning, 
 ➡️ Repo: https://github.com/ashiksharonm/PoliRAG-Enterprise-Policy-Compliance-Intelligence-Engine
 
 
+### 🔹 Zero-Shot-SAR-Classification
+Production-grade AI project
+
+➡️ Repo: https://github.com/ashiksharonm/Zero-Shot-SAR-Classification
+
+
+### 🔹 aws-ml-risk-scoring-service
+Build an end-to-end ML production system for credit risk scoring using the UCI Credit Default dataset. The system will include a reproducible training pipeline, an explainable inference API (FastAPI), and two deployment modes (AWS Lambda Serverless & EC2 Docker) suitable for AWS Free Tier.
+
+➡️ Repo: https://github.com/ashiksharonm/aws-ml-risk-scoring-service
+
+
+### 🔹 votechainai
+A production-grade, blockchain-backed voting platform with AI-assisted integrity monitoring.
+
+➡️ Repo: https://github.com/ashiksharonm/votechainai
+
+
 <!-- PROJECTS:END -->
 
 <!--
