@@ -76,6 +76,12 @@ analyzing failure modes, and improving prompt and system reliability.
 ## 📌 Featured Projects
 <!-- PROJECTS:START -->
 
+### 🔹 PricePulse--Inflation-driven-Pricing-Strategy
+This project analyzes US CPI data to build forecasting models and derive pricing strategies.
+
+➡️ Repo: https://github.com/ashiksharonm/PricePulse--Inflation-driven-Pricing-Strategy
+
+
 ### 🔹 PoliRAG-Enterprise-Policy-Compliance-Intelligence-Engine
 A production-grade RAG file system for enterprise compliance, policy reasoning, and audit-safe AI.
 
@@ -92,12 +98,6 @@ Production-grade AI project
 Build an end-to-end ML production system for credit risk scoring using the UCI Credit Default dataset. The system will include a reproducible training pipeline, an explainable inference API (FastAPI), and two deployment modes (AWS Lambda Serverless & EC2 Docker) suitable for AWS Free Tier.
 
 ➡️ Repo: https://github.com/ashiksharonm/aws-ml-risk-scoring-service
-
-
-### 🔹 votechainai
-A production-grade, blockchain-backed voting platform with AI-assisted integrity monitoring.
-
-➡️ Repo: https://github.com/ashiksharonm/votechainai
 
 
 <!-- PROJECTS:END -->
