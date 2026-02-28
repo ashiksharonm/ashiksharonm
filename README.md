@@ -76,6 +76,12 @@ analyzing failure modes, and improving prompt and system reliability.
 ## 📌 Featured Projects
 <!-- PROJECTS:START -->
 
+### 🔹 aws-ml-risk-scoring-service
+Build an end-to-end ML production system for credit risk scoring using the UCI Credit Default dataset. The system will include a reproducible training pipeline, an explainable inference API (FastAPI), and two deployment modes (AWS Lambda Serverless & EC2 Docker) suitable for AWS Free Tier.
+
+➡️ Repo: https://github.com/ashiksharonm/aws-ml-risk-scoring-service
+
+
 ### 🔹 PricePulse--Inflation-driven-Pricing-Strategy
 This project analyzes US CPI data to build forecasting models and derive pricing strategies.
 
@@ -92,12 +98,6 @@ A production-grade RAG file system for enterprise compliance, policy reasoning, 
 Production-grade AI project
 
 ➡️ Repo: https://github.com/ashiksharonm/Zero-Shot-SAR-Classification
-
-
-### 🔹 aws-ml-risk-scoring-service
-Build an end-to-end ML production system for credit risk scoring using the UCI Credit Default dataset. The system will include a reproducible training pipeline, an explainable inference API (FastAPI), and two deployment modes (AWS Lambda Serverless & EC2 Docker) suitable for AWS Free Tier.
-
-➡️ Repo: https://github.com/ashiksharonm/aws-ml-risk-scoring-service
 
 
 <!-- PROJECTS:END -->
