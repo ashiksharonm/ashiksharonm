@@ -45,7 +45,7 @@ analyzing failure modes, and improving prompt and system reliability.
 ## 🏆 Career Highlights
 - Built an **Agentic AI ticket automation system** integrated with **ServiceNow**, deployed on **Kubernetes**, improving support workflow efficiency.
 - Leading development of an enterprise **GraphRAG platform** using hybrid graph architecture, ETL pipelines, and vector search for natural language analytics.
-- Filed a **patent** on **multi-agent GenAI systems** with provenance logging and secure audit trails.
+- Published a **patent** on **multi-agent GenAI systems** with provenance logging and secure audit trails.
 
 ---
 
