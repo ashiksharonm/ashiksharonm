@@ -76,6 +76,12 @@ analyzing failure modes, and improving prompt and system reliability.
 ## 📌 Featured Projects
 <!-- PROJECTS:START -->
 
+### 🔹 libmalloc
+A fully working malloc / free / realloc / calloc implementation from scratch, built for learning and systems engineering portfolio purposes.
+
+➡️ Repo: https://github.com/ashiksharonm/libmalloc
+
+
 ### 🔹 aws-ml-risk-scoring-service
 Build an end-to-end ML production system for credit risk scoring using the UCI Credit Default dataset. The system will include a reproducible training pipeline, an explainable inference API (FastAPI), and two deployment modes (AWS Lambda Serverless & EC2 Docker) suitable for AWS Free Tier.
 
@@ -92,12 +98,6 @@ This project analyzes US CPI data to build forecasting models and derive pricing
 A production-grade RAG file system for enterprise compliance, policy reasoning, and audit-safe AI.
 
 ➡️ Repo: https://github.com/ashiksharonm/PoliRAG-Enterprise-Policy-Compliance-Intelligence-Engine
-
-
-### 🔹 Zero-Shot-SAR-Classification
-Production-grade AI project
-
-➡️ Repo: https://github.com/ashiksharonm/Zero-Shot-SAR-Classification
 
 
 <!-- PROJECTS:END -->
