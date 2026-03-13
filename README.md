@@ -76,6 +76,12 @@ analyzing failure modes, and improving prompt and system reliability.
 ## 📌 Featured Projects
 <!-- PROJECTS:START -->
 
+### 🔹 WaferDefectX
+WaferDefectX is an end-to-end computer vision and machine learning pipeline designed for automated inspection of semiconductor wafers. It detects surface defects (scratches, particles) using a hybrid approach of classical computer vision for robust localization and machine learning for classification.
+
+➡️ Repo: https://github.com/ashiksharonm/WaferDefectX
+
+
 ### 🔹 libmalloc
 A fully working malloc / free / realloc / calloc implementation from scratch, built for learning and systems engineering portfolio purposes.
 
@@ -92,12 +98,6 @@ Build an end-to-end ML production system for credit risk scoring using the UCI C
 This project analyzes US CPI data to build forecasting models and derive pricing strategies.
 
 ➡️ Repo: https://github.com/ashiksharonm/PricePulse--Inflation-driven-Pricing-Strategy
-
-
-### 🔹 PoliRAG-Enterprise-Policy-Compliance-Intelligence-Engine
-A production-grade RAG file system for enterprise compliance, policy reasoning, and audit-safe AI.
-
-➡️ Repo: https://github.com/ashiksharonm/PoliRAG-Enterprise-Policy-Compliance-Intelligence-Engine
 
 
 <!-- PROJECTS:END -->
