@@ -76,6 +76,12 @@ analyzing failure modes, and improving prompt and system reliability.
 ## 📌 Featured Projects
 <!-- PROJECTS:START -->
 
+### 🔹 PricePulse--Inflation-driven-Pricing-Strategy
+This project analyzes US CPI data to build forecasting models and derive pricing strategies.
+
+➡️ Repo: https://github.com/ashiksharonm/PricePulse--Inflation-driven-Pricing-Strategy
+
+
 ### 🔹 WaferDefectX
 WaferDefectX is an end-to-end computer vision and machine learning pipeline designed for automated inspection of semiconductor wafers. It detects surface defects (scratches, particles) using a hybrid approach of classical computer vision for robust localization and machine learning for classification.
 
@@ -92,12 +98,6 @@ A fully working malloc / free / realloc / calloc implementation from scratch, bu
 Build an end-to-end ML production system for credit risk scoring using the UCI Credit Default dataset. The system will include a reproducible training pipeline, an explainable inference API (FastAPI), and two deployment modes (AWS Lambda Serverless & EC2 Docker) suitable for AWS Free Tier.
 
 ➡️ Repo: https://github.com/ashiksharonm/aws-ml-risk-scoring-service
-
-
-### 🔹 PricePulse--Inflation-driven-Pricing-Strategy
-This project analyzes US CPI data to build forecasting models and derive pricing strategies.
-
-➡️ Repo: https://github.com/ashiksharonm/PricePulse--Inflation-driven-Pricing-Strategy
 
 
 <!-- PROJECTS:END -->
