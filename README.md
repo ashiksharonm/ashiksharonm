@@ -76,16 +76,16 @@ analyzing failure modes, and improving prompt and system reliability.
 ## 📌 Featured Projects
 <!-- PROJECTS:START -->
 
-### 🔹 MiniPaymentAPI
-A production-style Mini Payments API demonstrating backend engineering fundamentals for fintech applications. Built as a learning and portfolio project.
-
-➡️ Repo: https://github.com/ashiksharonm/MiniPaymentAPI
-
-
 ### 🔹 WaferDefectX
 WaferDefectX is an end-to-end computer vision and machine learning pipeline designed for automated inspection of semiconductor wafers. It detects surface defects (scratches, particles) using a hybrid approach of classical computer vision for robust localization and machine learning for classification.
 
 ➡️ Repo: https://github.com/ashiksharonm/WaferDefectX
+
+
+### 🔹 MiniPaymentAPI
+A production-style Mini Payments API demonstrating backend engineering fundamentals for fintech applications. Built as a learning and portfolio project.
+
+➡️ Repo: https://github.com/ashiksharonm/MiniPaymentAPI
 
 
 ### 🔹 PricePulse--Inflation-driven-Pricing-Strategy
