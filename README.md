@@ -76,6 +76,12 @@ analyzing failure modes, and improving prompt and system reliability.
 ## 📌 Featured Projects
 <!-- PROJECTS:START -->
 
+### 🔹 TelemetryPulse
+TelemetryPulse is a production-style, real-time IoT event pipeline simulating a smart building analytics system. It ingests sensor data (CO2, Temperature, Humidity, Occupancy), streams it through Redpanda (Kafka), processes it for aggregation and alerting, and exposes analytics via a REST API.
+
+➡️ Repo: https://github.com/ashiksharonm/TelemetryPulse
+
+
 ### 🔹 PricePulse--Inflation-driven-Pricing-Strategy
 This project analyzes US CPI data to build forecasting models and derive pricing strategies.
 
@@ -92,12 +98,6 @@ WaferDefectX is an end-to-end computer vision and machine learning pipeline desi
 A production-style Mini Payments API demonstrating backend engineering fundamentals for fintech applications. Built as a learning and portfolio project.
 
 ➡️ Repo: https://github.com/ashiksharonm/MiniPaymentAPI
-
-
-### 🔹 libmalloc
-A fully working malloc / free / realloc / calloc implementation from scratch, built for learning and systems engineering portfolio purposes.
-
-➡️ Repo: https://github.com/ashiksharonm/libmalloc
 
 
 <!-- PROJECTS:END -->
