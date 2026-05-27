@@ -76,6 +76,12 @@ analyzing failure modes, and improving prompt and system reliability.
 ## 📌 Featured Projects
 <!-- PROJECTS:START -->
 
+### 🔹 alphaguard
+🏭 Production ML system for Alpha defect detection in steel hot rolling — FastAPI + 6-model ensemble + Jenkins CI/CD + Prometheus + Grafana
+
+➡️ Repo: https://github.com/ashiksharonm/alphaguard
+
+
 ### 🔹 PricePulse--Inflation-driven-Pricing-Strategy
 This project analyzes US CPI data to build forecasting models and derive pricing strategies.
 
@@ -92,12 +98,6 @@ Build an end-to-end ML production system for credit risk scoring using the UCI C
 TelemetryPulse is a production-style, real-time IoT event pipeline simulating a smart building analytics system. It ingests sensor data (CO2, Temperature, Humidity, Occupancy), streams it through Redpanda (Kafka), processes it for aggregation and alerting, and exposes analytics via a REST API.
 
 ➡️ Repo: https://github.com/ashiksharonm/TelemetryPulse
-
-
-### 🔹 WaferDefectX
-WaferDefectX is an end-to-end computer vision and machine learning pipeline designed for automated inspection of semiconductor wafers. It detects surface defects (scratches, particles) using a hybrid approach of classical computer vision for robust localization and machine learning for classification.
-
-➡️ Repo: https://github.com/ashiksharonm/WaferDefectX
 
 
 <!-- PROJECTS:END -->
