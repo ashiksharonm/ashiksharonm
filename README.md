@@ -76,8 +76,14 @@ analyzing failure modes, and improving prompt and system reliability.
 ## 📌 Featured Projects
 <!-- PROJECTS:START -->
 
+### 🔹 DocuMind-OCR-Intelligence
+DocuMind is an end-to-end document intelligence API designed to extract structured data from invoices using open-source tools.
+
+➡️ Repo: https://github.com/ashiksharonm/DocuMind-OCR-Intelligence
+
+
 ### 🔹 alphaguard
-🏭 Production ML system for Alpha defect detection in steel hot rolling — FastAPI + 6-model ensemble + Jenkins CI/CD + Prometheus + Grafana
+Production ML system for Alpha defect detection in steel hot rolling — FastAPI + 6-model ensemble + Jenkins CI/CD + Prometheus + Grafana
 
 ➡️ Repo: https://github.com/ashiksharonm/alphaguard
 
@@ -92,12 +98,6 @@ This project analyzes US CPI data to build forecasting models and derive pricing
 Build an end-to-end ML production system for credit risk scoring using the UCI Credit Default dataset. The system will include a reproducible training pipeline, an explainable inference API (FastAPI), and two deployment modes (AWS Lambda Serverless & EC2 Docker) suitable for AWS Free Tier.
 
 ➡️ Repo: https://github.com/ashiksharonm/aws-ml-risk-scoring-service
-
-
-### 🔹 TelemetryPulse
-TelemetryPulse is a production-style, real-time IoT event pipeline simulating a smart building analytics system. It ingests sensor data (CO2, Temperature, Humidity, Occupancy), streams it through Redpanda (Kafka), processes it for aggregation and alerting, and exposes analytics via a REST API.
-
-➡️ Repo: https://github.com/ashiksharonm/TelemetryPulse
 
 
 <!-- PROJECTS:END -->
