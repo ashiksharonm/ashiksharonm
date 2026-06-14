@@ -76,16 +76,16 @@ analyzing failure modes, and improving prompt and system reliability.
 ## 📌 Featured Projects
 <!-- PROJECTS:START -->
 
-### 🔹 DocuMind-OCR-Intelligence
-DocuMind is an end-to-end document intelligence API designed to extract structured data from invoices using open-source tools.
-
-➡️ Repo: https://github.com/ashiksharonm/DocuMind-OCR-Intelligence
-
-
 ### 🔹 alphaguard
 Production ML system for Alpha defect detection in steel hot rolling — FastAPI + 6-model ensemble + Jenkins CI/CD + Prometheus + Grafana
 
 ➡️ Repo: https://github.com/ashiksharonm/alphaguard
+
+
+### 🔹 DocuMind-OCR-Intelligence
+DocuMind is an end-to-end document intelligence API designed to extract structured data from invoices using open-source tools.
+
+➡️ Repo: https://github.com/ashiksharonm/DocuMind-OCR-Intelligence
 
 
 ### 🔹 PricePulse--Inflation-driven-Pricing-Strategy
