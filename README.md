@@ -76,6 +76,12 @@ analyzing failure modes, and improving prompt and system reliability.
 ## 📌 Featured Projects
 <!-- PROJECTS:START -->
 
+### 🔹 PricePulse--Inflation-driven-Pricing-Strategy
+This project analyzes US CPI data to build forecasting models and derive pricing strategies.
+
+➡️ Repo: https://github.com/ashiksharonm/PricePulse--Inflation-driven-Pricing-Strategy
+
+
 ### 🔹 alphaguard
 Production ML system for Alpha defect detection in steel hot rolling — FastAPI + 6-model ensemble + Jenkins CI/CD + Prometheus + Grafana
 
@@ -86,12 +92,6 @@ Production ML system for Alpha defect detection in steel hot rolling — FastAPI
 DocuMind is an end-to-end document intelligence API designed to extract structured data from invoices using open-source tools.
 
 ➡️ Repo: https://github.com/ashiksharonm/DocuMind-OCR-Intelligence
-
-
-### 🔹 PricePulse--Inflation-driven-Pricing-Strategy
-This project analyzes US CPI data to build forecasting models and derive pricing strategies.
-
-➡️ Repo: https://github.com/ashiksharonm/PricePulse--Inflation-driven-Pricing-Strategy
 
 
 ### 🔹 aws-ml-risk-scoring-service
