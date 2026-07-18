@@ -36,10 +36,10 @@ selected = sorted(selected, key=lambda r: r["pushed_at"], reverse=True)[:MAX_PRO
 blocks = []
 for r in selected:
     blocks.append(
-        f"""### 🔹 {r['name']}
+        f"""### <img width="16" height="16" src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2338bdf8" valign="middle"/> {r['name']}
 {r['description'] or "Production-grade AI project"}
 
-➡️ Repo: {r['html_url']}
+<img width="14" height="14" src="https://api.iconify.design/lucide/arrow-right.svg?color=%2338bdf8" valign="middle"/> Repo: {r['html_url']}
 """
     )
 
@@ -61,3 +61,4 @@ updated = readme.replace(
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(updated)
+

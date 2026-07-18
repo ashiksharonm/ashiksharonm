@@ -23,7 +23,7 @@
 
 <br/>
 
-## 👋 About Me
+## <img width="24" height="24" src="https://api.iconify.design/lucide/user-round.svg?color=%2338bdf8" valign="middle"/> About Me
 
 I build **agentic, production-grade AI systems** — the kind that ship, get monitored, and survive contact with real users and real data, not just a demo that works once.
 
@@ -39,31 +39,31 @@ focus:       evaluation harnesses · retrieval quality · cost-per-token · late
 
 <br/>
 
-## 🧭 What I Work On
+## <img width="24" height="24" src="https://api.iconify.design/lucide/compass.svg?color=%2338bdf8" valign="middle"/> What I Work On
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🤖 Agentic AI & MCP**
+**<img width="16" height="16" src="https://api.iconify.design/lucide/bot.svg?color=%2338bdf8" valign="middle"/> Agentic AI & MCP**
 Multi-agent orchestration, custom MCP servers/tools, scoped tool access, agent evaluation harnesses
 
-**🔎 RAG / GraphRAG**
+**<img width="16" height="16" src="https://api.iconify.design/lucide/search.svg?color=%2338bdf8" valign="middle"/> RAG / GraphRAG**
 Hybrid graph + vector retrieval, LlamaIndex, Neo4j, FAISS, query routing, retrieval-accuracy tuning
 
-**🧠 LLM Systems**
+**<img width="16" height="16" src="https://api.iconify.design/lucide/brain-circuit.svg?color=%2338bdf8" valign="middle"/> LLM Systems**
 Anthropic Claude API, OpenAI, Azure AI Foundry, prompt engineering, cost/latency optimization
 
 </td>
 <td width="50%" valign="top">
 
-**⚙️ Backend & APIs**
+**<img width="16" height="16" src="https://api.iconify.design/lucide/settings-2.svg?color=%2338bdf8" valign="middle"/> Backend & APIs**
 FastAPI, Django REST Framework, Node.js, clean architecture, idempotent payment systems
 
-**📡 Data & Streaming**
+**<img width="16" height="16" src="https://api.iconify.design/lucide/radio-tower.svg?color=%2338bdf8" valign="middle"/> Data & Streaming**
 Kafka/Redpanda event pipelines, ETL, PostgreSQL, Redis, MongoDB
 
-**☁️ MLOps & Cloud**
+**<img width="16" height="16" src="https://api.iconify.design/lucide/cloud.svg?color=%2338bdf8" valign="middle"/> MLOps & Cloud**
 Docker, Kubernetes (Rancher/CaaS), GitHub Actions CI/CD, AWS (Lambda, EC2, SAM), Azure, GCP
 
 </td>
@@ -72,12 +72,12 @@ Docker, Kubernetes (Rancher/CaaS), GitHub Actions CI/CD, AWS (Lambda, EC2, SAM),
 
 <br/>
 
-## 💼 Experience
+## <img width="24" height="24" src="https://api.iconify.design/lucide/briefcase.svg?color=%2338bdf8" valign="middle"/> Experience
 
 <table>
 <tr><td width="100%">
 
-**🟢 Artificial Intelligence Engineer** · CobuildX.ai · <sub>Jun 2026 – Present</sub>
+<img width="14" height="14" src="https://api.iconify.design/lucide/circle-dot.svg?color=%2322c55e" valign="middle"/> **Artificial Intelligence Engineer** · CobuildX.ai · <sub>Jun 2026 – Present</sub>
 - Shipped AI custom agents with **MCP tool integration**, giving each agent scoped GitHub repo access for code-aware automated reviews
 - Built full-stack features (React + TypeScript, FastAPI on AWS Lambda) including a real-time collaborative Kanban board
 - Audited production **Supabase/Postgres row-level security** across a multi-tenant data model
@@ -86,7 +86,7 @@ Docker, Kubernetes (Rancher/CaaS), GitHub Actions CI/CD, AWS (Lambda, EC2, SAM),
 </td></tr>
 <tr><td width="100%">
 
-**🔵 Graduate Technical Intern — AI Engineering** · Intel Technology India · <sub>Jul 2025 – Feb 2026</sub>
+<img width="14" height="14" src="https://api.iconify.design/lucide/circle-dot.svg?color=%2338bdf8" valign="middle"/> **Graduate Technical Intern — AI Engineering** · Intel Technology India · <sub>Jul 2025 – Feb 2026</sub>
 - Designed a production **multi-agent LLM ticket-automation system** (Azure AI Foundry + ServiceNow) — **35–45%** lower model cost, **39.4%** fewer input tokens
 - Built a **Retriever API** over internal wikis — **12s avg response**, **1.8×–2.3×** throughput gain
 - Engineered a **GraphRAG platform** (LlamaIndex, Neo4j, FAISS hybrid search) — **+32%** retrieval accuracy, **-45%** lookup latency
@@ -97,26 +97,26 @@ Docker, Kubernetes (Rancher/CaaS), GitHub Actions CI/CD, AWS (Lambda, EC2, SAM),
 
 <br/>
 
-## 🧾 Patents & Open Source
+## <img width="24" height="24" src="https://api.iconify.design/lucide/scroll-text.svg?color=%2338bdf8" valign="middle"/> Patents & Open Source
 
 <table>
 <tr><td width="100%">
 
-🏛️ **Adaptive Multi-Agent Generative AI System for Automated Legal Contract Drafting and Advisory** <sub>*(Filed, 2025)*</sub>
+<img width="16" height="16" src="https://api.iconify.design/lucide/landmark.svg?color=%2338bdf8" valign="middle"/> **Adaptive Multi-Agent Generative AI System for Automated Legal Contract Drafting and Advisory** <sub>*(Filed, 2025)*</sub>
 Multi-agent architecture (Clause Selector, Drafter, Compliance, Verifier) with cryptographic provenance logging — **92% F1** on document understanding, **42%** faster NDA drafting
 
-🛰️ **Hardware-Accelerated SAR Semantic Downlink**
+<img width="16" height="16" src="https://api.iconify.design/lucide/satellite.svg?color=%2338bdf8" valign="middle"/> **Hardware-Accelerated SAR Semantic Downlink**
 Onboard VLM-based semantic processing for satellite imagery — cuts bandwidth usage **95%+** with veracity enforcement
 
-🌱 **[Meta FAISS — PR #4792](https://github.com/facebookresearch/faiss/pull/4792)** — Fixed a multi-platform CI regression, restoring build stability for a vector-search library used at global scale
-🌱 **[Google DeepMind Gemma — PR #590](https://github.com/google-deepmind/gemma/pull/590)** — Resolved a runtime crash and added regression tests for a production LLM inference pipeline
+<img width="16" height="16" src="https://api.iconify.design/lucide/git-pull-request.svg?color=%2322c55e" valign="middle"/> **[Meta FAISS — PR #4792](https://github.com/facebookresearch/faiss/pull/4792)** — Fixed a multi-platform CI regression, restoring build stability for a vector-search library used at global scale
+<img width="16" height="16" src="https://api.iconify.design/lucide/git-pull-request.svg?color=%2322c55e" valign="middle"/> **[Google DeepMind Gemma — PR #590](https://github.com/google-deepmind/gemma/pull/590)** — Resolved a runtime crash and added regression tests for a production LLM inference pipeline
 
 </td></tr>
 </table>
 
 <br/>
 
-## 🛠️ Tech Stack
+## <img width="24" height="24" src="https://api.iconify.design/lucide/wrench.svg?color=%2338bdf8" valign="middle"/> Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -149,7 +149,7 @@ Onboard VLM-based semantic processing for satellite imagery — cuts bandwidth u
 
 <br/>
 
-## 📊 GitHub Activity
+## <img width="24" height="24" src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%2338bdf8" valign="middle"/> GitHub Activity
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=ashiksharonm&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8"/>
@@ -157,20 +157,20 @@ Onboard VLM-based semantic processing for satellite imagery — cuts bandwidth u
 
 <br/>
 
-## 🚀 Featured Projects
+## <img width="24" height="24" src="https://api.iconify.design/lucide/rocket.svg?color=%2338bdf8" valign="middle"/> Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔌 [mcp-server-poc](https://github.com/ashiksharonm/mcp-server-poc)
+### <img width="18" height="18" src="https://api.iconify.design/lucide/plug.svg?color=%2338bdf8" valign="middle"/> [mcp-server-poc](https://github.com/ashiksharonm/mcp-server-poc)
 Agent Tool Gateway (FastAPI + Pydantic) — **<100ms** dispatch latency, a "Safe SQL" validator blocking 100% of injection risk, and an automated tool-selection eval harness.
 <sub>`Python` `FastAPI` `MCP` `Pydantic`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 [TelemetryPulse](https://github.com/ashiksharonm/TelemetryPulse)
+### <img width="18" height="18" src="https://api.iconify.design/lucide/radio-tower.svg?color=%2338bdf8" valign="middle"/> [TelemetryPulse](https://github.com/ashiksharonm/TelemetryPulse)
 Event-driven IoT pipeline on Kafka/Redpanda processing **5,000+ events/sec** across 45+ simulated devices with exactly-once processing and real-time anomaly detection.
 <sub>`Python` `Kafka` `FastAPI`</sub>
 
@@ -179,14 +179,14 @@ Event-driven IoT pipeline on Kafka/Redpanda processing **5,000+ events/sec** acr
 <tr>
 <td width="50%" valign="top">
 
-### 📚 [PoliRAG](https://github.com/ashiksharonm/PoliRAG-Enterprise-Policy-Compliance-Intelligence-Engine)
+### <img width="18" height="18" src="https://api.iconify.design/lucide/book-open.svg?color=%2338bdf8" valign="middle"/> [PoliRAG](https://github.com/ashiksharonm/PoliRAG-Enterprise-Policy-Compliance-Intelligence-Engine)
 Production-grade RAG system for enterprise compliance and audit-safe policy reasoning.
 <sub>`Python` `RAG` `LLM`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏭 [alphaguard](https://github.com/ashiksharonm/alphaguard)
+### <img width="18" height="18" src="https://api.iconify.design/lucide/factory.svg?color=%2338bdf8" valign="middle"/> [alphaguard](https://github.com/ashiksharonm/alphaguard)
 Production ML system for defect detection in steel hot rolling — FastAPI + 6-model ensemble + Jenkins CI/CD + Prometheus + Grafana.
 <sub>`Python` `FastAPI` `MLOps`</sub>
 
@@ -195,14 +195,14 @@ Production ML system for defect detection in steel hot rolling — FastAPI + 6-m
 <tr>
 <td width="50%" valign="top">
 
-### 💳 [MiniPaymentAPI](https://github.com/ashiksharonm/MiniPaymentAPI)
+### <img width="18" height="18" src="https://api.iconify.design/lucide/credit-card.svg?color=%2338bdf8" valign="middle"/> [MiniPaymentAPI](https://github.com/ashiksharonm/MiniPaymentAPI)
 Payments API with a Redis-backed idempotency engine guaranteeing zero duplicate charges under concurrent retries and network failures.
 <sub>`Python` `FastAPI` `Redis`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 [aws-ml-risk-scoring-service](https://github.com/ashiksharonm/aws-ml-risk-scoring-service)
+### <img width="18" height="18" src="https://api.iconify.design/lucide/trending-up.svg?color=%2338bdf8" valign="middle"/> [aws-ml-risk-scoring-service](https://github.com/ashiksharonm/aws-ml-risk-scoring-service)
 XGBoost credit-default model (**81.7%** accuracy, **0.77** ROC-AUC) deployed dual-strategy on AWS Lambda + Dockerized EC2 with sub-150ms latency.
 <sub>`Python` `XGBoost` `AWS`</sub>
 
@@ -211,32 +211,32 @@ XGBoost credit-default model (**81.7%** accuracy, **0.77** ROC-AUC) deployed dua
 </table>
 
 <details>
-<summary><b>📌 More recent work (auto-updated)</b></summary>
+<summary><b><img width="16" height="16" src="https://api.iconify.design/lucide/pin.svg?color=%2338bdf8" valign="middle"/> More recent work (auto-updated)</b></summary>
 <br/>
 <!-- PROJECTS:START -->
 
-### 🔹 PricePulse--Inflation-driven-Pricing-Strategy
+### <img width="16" height="16" src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2338bdf8" valign="middle"/> PricePulse--Inflation-driven-Pricing-Strategy
 This project analyzes US CPI data to build forecasting models and derive pricing strategies.
 
-➡️ Repo: https://github.com/ashiksharonm/PricePulse--Inflation-driven-Pricing-Strategy
+<img width="14" height="14" src="https://api.iconify.design/lucide/arrow-right.svg?color=%2338bdf8" valign="middle"/> Repo: https://github.com/ashiksharonm/PricePulse--Inflation-driven-Pricing-Strategy
 
 
-### 🔹 alphaguard
+### <img width="16" height="16" src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2338bdf8" valign="middle"/> alphaguard
 Production ML system for Alpha defect detection in steel hot rolling — FastAPI + 6-model ensemble + Jenkins CI/CD + Prometheus + Grafana
 
-➡️ Repo: https://github.com/ashiksharonm/alphaguard
+<img width="14" height="14" src="https://api.iconify.design/lucide/arrow-right.svg?color=%2338bdf8" valign="middle"/> Repo: https://github.com/ashiksharonm/alphaguard
 
 
-### 🔹 DocuMind-OCR-Intelligence
+### <img width="16" height="16" src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2338bdf8" valign="middle"/> DocuMind-OCR-Intelligence
 DocuMind is an end-to-end document intelligence API designed to extract structured data from invoices using open-source tools.
 
-➡️ Repo: https://github.com/ashiksharonm/DocuMind-OCR-Intelligence
+<img width="14" height="14" src="https://api.iconify.design/lucide/arrow-right.svg?color=%2338bdf8" valign="middle"/> Repo: https://github.com/ashiksharonm/DocuMind-OCR-Intelligence
 
 
-### 🔹 aws-ml-risk-scoring-service
+### <img width="16" height="16" src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2338bdf8" valign="middle"/> aws-ml-risk-scoring-service
 Build an end-to-end ML production system for credit risk scoring using the UCI Credit Default dataset. The system will include a reproducible training pipeline, an explainable inference API (FastAPI), and two deployment modes (AWS Lambda Serverless & EC2 Docker) suitable for AWS Free Tier.
 
-➡️ Repo: https://github.com/ashiksharonm/aws-ml-risk-scoring-service
+<img width="14" height="14" src="https://api.iconify.design/lucide/arrow-right.svg?color=%2338bdf8" valign="middle"/> Repo: https://github.com/ashiksharonm/aws-ml-risk-scoring-service
 
 
 <!-- PROJECTS:END -->
@@ -244,17 +244,17 @@ Build an end-to-end ML production system for credit risk scoring using the UCI C
 
 <br/>
 
-## 🏆 Achievements & Leadership
+## <img width="24" height="24" src="https://api.iconify.design/lucide/trophy.svg?color=%2338bdf8" valign="middle"/> Achievements & Leadership
 
 <table>
 <tr><td>
 
-🏆 **Niral Thiruvizha 2024 (Govt. of Tamil Nadu)** — [AgroVoiceAI](https://github.com/ashiksharonm/AgroVoiceAI) ranked **Top 100 statewide** (from 500+ shortlisted) — AI-driven voice-based agricultural assistance
-🥇 **Winner — Praestantia 2023** — StockistAI (Hybrid LSTM + SVM stock trend forecasting)
-🥇 **Winner — Technoteen 2021 (LICET)** — DigiPass (Flutter + QR-based digital bus pass system)
-🏆 **Ashok Leyland Hackathon Finalist** — IntelliRoute (AI-powered EV energy management system)
-🎯 **Organizer — Hackwarts Hackathon** (Xplore 2023, LICET)
-🏐 **Sports Captain (CSE Dept., LICET)** & CM Trophy Winners (VIT 2024, District Level)
+<img width="16" height="16" src="https://api.iconify.design/lucide/trophy.svg?color=%23eab308" valign="middle"/> **Niral Thiruvizha 2024 (Govt. of Tamil Nadu)** — [AgroVoiceAI](https://github.com/ashiksharonm/AgroVoiceAI) ranked **Top 100 statewide** (from 500+ shortlisted) — AI-driven voice-based agricultural assistance
+<img width="16" height="16" src="https://api.iconify.design/lucide/medal.svg?color=%23eab308" valign="middle"/> **Winner — Praestantia 2023** — StockistAI (Hybrid LSTM + SVM stock trend forecasting)
+<img width="16" height="16" src="https://api.iconify.design/lucide/medal.svg?color=%23eab308" valign="middle"/> **Winner — Technoteen 2021 (LICET)** — DigiPass (Flutter + QR-based digital bus pass system)
+<img width="16" height="16" src="https://api.iconify.design/lucide/trophy.svg?color=%23eab308" valign="middle"/> **Ashok Leyland Hackathon Finalist** — IntelliRoute (AI-powered EV energy management system)
+<img width="16" height="16" src="https://api.iconify.design/lucide/target.svg?color=%2338bdf8" valign="middle"/> **Organizer — Hackwarts Hackathon** (Xplore 2023, LICET)
+<img width="16" height="16" src="https://api.iconify.design/lucide/volleyball.svg?color=%2338bdf8" valign="middle"/> **Sports Captain (CSE Dept., LICET)** & CM Trophy Winners (VIT 2024, District Level)
 
 </td></tr>
 </table>
@@ -263,13 +263,13 @@ Build an end-to-end ML production system for credit risk scoring using the UCI C
 
 <div align="center">
 
-## 📫 Let's Connect
+## <img width="24" height="24" src="https://api.iconify.design/lucide/send.svg?color=%2338bdf8" valign="middle"/> Let's Connect
 
 <a href="mailto:sharonashik20@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ashik-sharon-6757011b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/ashiksharonm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-**⭐ Open to full-time AI Engineer / GenAI / MLOps roles.**
+**<img width="16" height="16" src="https://api.iconify.design/lucide/star.svg?color=%23eab308" valign="middle"/> Open to full-time AI Engineer / GenAI / MLOps roles.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
 
