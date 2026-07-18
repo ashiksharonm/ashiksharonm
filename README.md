@@ -149,36 +149,66 @@ Onboard VLM-based semantic processing for satellite imagery — cuts bandwidth u
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashiksharonm&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiksharonm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiksharonm&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashiksharonm&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
+<img src="https://streak-stats.demolab.com/?user=ashiksharonm&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8"/>
 </div>
 
 <br/>
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/ashiksharonm/mcp-server-poc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiksharonm&repo=mcp-server-poc&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" width="49%"/></a>
-<a href="https://github.com/ashiksharonm/TelemetryPulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiksharonm&repo=TelemetryPulse&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" width="49%"/></a>
-<a href="https://github.com/ashiksharonm/PoliRAG-Enterprise-Policy-Compliance-Intelligence-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiksharonm&repo=PoliRAG-Enterprise-Policy-Compliance-Intelligence-Engine&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" width="49%"/></a>
-<a href="https://github.com/ashiksharonm/alphaguard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiksharonm&repo=alphaguard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" width="49%"/></a>
-<a href="https://github.com/ashiksharonm/MiniPaymentAPI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiksharonm&repo=MiniPaymentAPI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" width="49%"/></a>
-<a href="https://github.com/ashiksharonm/aws-ml-risk-scoring-service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiksharonm&repo=aws-ml-risk-scoring-service&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" width="49%"/></a>
+### 🔌 [mcp-server-poc](https://github.com/ashiksharonm/mcp-server-poc)
+Agent Tool Gateway (FastAPI + Pydantic) — **<100ms** dispatch latency, a "Safe SQL" validator blocking 100% of injection risk, and an automated tool-selection eval harness.
+<sub>`Python` `FastAPI` `MCP` `Pydantic`</sub>
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### 📡 [TelemetryPulse](https://github.com/ashiksharonm/TelemetryPulse)
+Event-driven IoT pipeline on Kafka/Redpanda processing **5,000+ events/sec** across 45+ simulated devices with exactly-once processing and real-time anomaly detection.
+<sub>`Python` `Kafka` `FastAPI`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [PoliRAG](https://github.com/ashiksharonm/PoliRAG-Enterprise-Policy-Compliance-Intelligence-Engine)
+Production-grade RAG system for enterprise compliance and audit-safe policy reasoning.
+<sub>`Python` `RAG` `LLM`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 [alphaguard](https://github.com/ashiksharonm/alphaguard)
+Production ML system for defect detection in steel hot rolling — FastAPI + 6-model ensemble + Jenkins CI/CD + Prometheus + Grafana.
+<sub>`Python` `FastAPI` `MLOps`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 [MiniPaymentAPI](https://github.com/ashiksharonm/MiniPaymentAPI)
+Payments API with a Redis-backed idempotency engine guaranteeing zero duplicate charges under concurrent retries and network failures.
+<sub>`Python` `FastAPI` `Redis`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [aws-ml-risk-scoring-service](https://github.com/ashiksharonm/aws-ml-risk-scoring-service)
+XGBoost credit-default model (**81.7%** accuracy, **0.77** ROC-AUC) deployed dual-strategy on AWS Lambda + Dockerized EC2 with sub-150ms latency.
+<sub>`Python` `XGBoost` `AWS`</sub>
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>📌 More recent work (auto-updated)</b></summary>
